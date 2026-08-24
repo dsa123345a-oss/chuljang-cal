@@ -1,5 +1,5 @@
 {
   "version": "2026.08.24",
-  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.08.25/dist.exe",
+  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.08.24/dist.exe",
   "notes": "- 간편검색: 즐겨찾기 없이 이름 검색만으로 출장비 확인·결의서 생성\n- 전체 출장자 명단 칩 표시 + 조회 후에도 상단 고정\n- 내역서 범위(지급대상/전체)를 생성 버튼 옆에 배치\n- 자동 업데이트 기능 추가"
 }
