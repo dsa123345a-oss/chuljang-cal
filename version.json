@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.14.1",
-  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.14.1/gwannae-yeobi-2026.10.14.1.exe",
+  "version": "2026.10.14.2",
+  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.14.2/gwannae-yeobi-2026.10.14.2.exe",
   "min_version": "2026.10.2",
-  "notes": "업로드 안내줄 추가 후 상단 버튼 영역이 과도하게 늘어나던 화면 비율 오류를 수정했습니다. 본문이 남는 높이를 채우도록 복구했습니다.",
-  "sha256": "1d169370ccee80551806d11e718204ae52662d9dadff35afd750c4a003dfd467"
+  "notes": "상단 자동 보관 안내문과 전송 건수, 다시 확인 버튼을 제거했습니다. 자동 보관 기능은 유지됩니다.",
+  "sha256": "8e1406bd75da18f7e45fbba07165b5d9570094580303fb916834faf3696bd934"
 }
