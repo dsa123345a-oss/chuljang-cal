@@ -1,6 +1,7 @@
 {
-  "version": "2026.10.2",
-  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.2/default.exe",
+  "version": "2026.10.14",
+  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.14/gwannae-yeobi-2026.10.14.exe",
   "min_version": "2026.10.2",
-  "notes": ""
+  "notes": "생성한 결의서·출장내역서를 담당자 Drive에 자동 보관합니다. 담당자가 연결승인 시트에서 PC를 한 번 승인하면 자동 전송됩니다. 전송 상태 표시 및 업데이트 재실행 환경을 보완했습니다.",
+  "sha256": "9f0f11b5d1d15ddc2a218719eb3a4f4ea46612b653eb44222e4e8b990553eb48"
 }
