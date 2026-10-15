@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.14.2",
-  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.14.2/gwannae-yeobi-2026.10.14.2.exe",
+  "version": "2026.10.15",
+  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.15/gwannae-yeobi-2026.10.15.exe",
   "min_version": "2026.10.2",
-  "notes": "",
-  "sha256": "8e1406bd75da18f7e45fbba07165b5d9570094580303fb916834faf3696bd934"
+  "notes": "24건 초과 시 왼쪽 결의서는 한 장으로 유지하고 명세만 추가합니다. 마지막 명세에만 전체 합계를 표시하며, 엑셀을 열면 첫 번째 시트와 탭이 처음부터 보이도록 수정했습니다.",
+  "sha256": "2d0f1d0ba12d7378ab6a9485c18afc9a8dafd29623c4b414b5834afcffac621b"
 }
