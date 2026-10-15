@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.15.2",
-  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.15.2/gwannae-yeobi-2026.10.15.2.exe",
+  "version": "2026.10.15.3",
+  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.15.3/gwannae-yeobi-2026.10.15.3.exe",
   "min_version": "2026.10.2",
-  "notes": "우리 팀 중심 화면으로 개선했습니다. 지급·제외 사유, 동명이인 구분, 파일 없이 직급·계좌 편집, 상단 저장 설정과 생성 결과 안내를 적용했습니다. 기존 설정과 자동 파일 보관은 유지됩니다.",
-  "sha256": "506312e2cba7a225942a2ca60350b51fe37a364969ff4e83d328b36479c91623"
+  "notes": "확인한 최신 화면 개선사항을 반영하고 SSL 인증서 검증을 기본 해제했습니다. 계산 규칙과 엑셀 양식은 유지합니다.",
+  "sha256": "b0aa3bd1016bd447c7e00c1f9c54d35ccea4c643dda6e09392e584917ecd8ce6"
 }
