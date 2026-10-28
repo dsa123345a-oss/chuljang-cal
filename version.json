@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.15.3",
-  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.15.3/gwannae-yeobi-2026.10.15.3.exe",
+  "version": "2026.10.28",
+  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.10.28/gwannae-yeobi-2026.10.28.exe",
   "min_version": "2026.10.2",
-  "notes": "확인한 최신 화면 개선사항을 반영하고 SSL 인증서 검증을 기본 해제했습니다. 계산 규칙과 엑셀 양식은 유지합니다.",
-  "sha256": "b0aa3bd1016bd447c7e00c1f9c54d35ccea4c643dda6e09392e584917ecd8ce6"
+  "notes": "사용기록을 PC에 먼저 보관하고 종료·전송 실패 후 다음 실행 및 5분마다 재시도하도록 개선했습니다. 계산과 화면은 유지합니다.",
+  "sha256": "83af66b07b7abf04d90c7e28a571ec56166eada3904fe2e93365479cc51842c7"
 }
