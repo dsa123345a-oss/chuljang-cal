@@ -1,7 +1,8 @@
 {
-  "version": "2026.11.21",
-  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.11.21/gwannae-yeobi-2026.11.21.exe",
+  "version": "2026.11.25.2",
+  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.11.25.2/gwannae-yeobi-2026.11.25.2.exe",
   "min_version": "2026.10.2",
-  "notes": "실행시간과 작업시간을 구분하고 겹치는 시간대를 합칩니다. 대량 업로드 중에도 접속 상태를 별도로 갱신합니다.",
-  "sha256": "a92b21e04d8815019633da37684a6c16ad362422d2cb0f40b8e6c3c5ba2c505a"
+  "notes": "기능 개선 및 안정화",
+  "sha256": "0515a6456b1dda6171720672c41953283bb1083b7b65dc3077ff26a2452298cc",
+  "size": 42781002
 }
