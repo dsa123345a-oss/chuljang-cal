@@ -1,8 +1,8 @@
 {
-  "version": "2026.11.25.6",
-  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.11.25.6/gwannae-yeobi-2026.11.25.6.exe",
+  "version": "2026.11.25.7",
+  "download_url": "https://github.com/dsa123345a-oss/chuljang-cal/releases/download/v2026.11.25.7/gwannae-yeobi-2026.11.25.7.exe",
   "min_version": "2026.10.2",
   "notes": "기능 개선 및 안정화",
-  "sha256": "a1fab6981a2f3f3757ba68244905f5574dfc906eb7388855426132780ad71377",
-  "size": 42870153
+  "sha256": "6452d5b7b29ecabc251e3f93736d99edd3fa7d25045b6b188cb446948095e1a7",
+  "size": 42870569
 }
